@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">書誌引き</title>
+  <desc id="desc">カード目録と書誌カードで本の公式書誌を引くサービス</desc>
+  <rect width="1200" height="630" fill="#f2eee4"/>
+  <g stroke="#24394a" stroke-opacity=".05">
+    <path d="M0 42H1200M0 112H1200M0 182H1200M0 252H1200M0 322H1200M0 392H1200M0 462H1200M0 532H1200M0 602H1200"/>
+    <path d="M42 0V630M112 0V630M182 0V630M252 0V630M322 0V630M392 0V630M462 0V630M532 0V630M602 0V630M672 0V630M742 0V630M812 0V630M882 0V630M952 0V630M1022 0V630M1092 0V630M1162 0V630"/>
+  </g>
+  <rect x="54" y="52" width="1092" height="526" rx="10" fill="#24394a" stroke="#172936" stroke-width="3"/>
+  <rect x="73" y="71" width="1054" height="488" rx="5" fill="none" stroke="#fffaf0" stroke-opacity=".12" stroke-width="2"/>
+  <g transform="translate(105 91)">
+    <text x="0" y="33" font-family="sans-serif" font-size="18" font-weight="700" letter-spacing="5" fill="#c3b18c">日本全国書誌</text>
+    <text x="0" y="94" font-family="serif" font-size="48" font-weight="700" letter-spacing="6" fill="#fff9eb">書誌引き</text>
+    <text x="2" y="139" font-family="sans-serif" font-size="21" letter-spacing="2" fill="#d9e0e3">本を、確かな一枚へ。</text>
+  </g>
+  <g transform="translate(105 300)">
+    <rect x="0" y="25" width="69" height="178" rx="4" fill="#9b4d43" stroke="#152934" stroke-width="3"/>
+    <path d="M11 45H58M11 181H58" stroke="#d5bb7a" stroke-width="4"/>
+    <text x="35" y="82" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#f7e8c7" writing-mode="tb">913.6</text>
+    <rect x="77" y="0" width="72" height="203" rx="4" fill="#577183" stroke="#152934" stroke-width="3"/>
+    <path d="M89 21H137M89 181H137" stroke="#d5bb7a" stroke-width="4"/>
+    <text x="113" y="65" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#f7e8c7" writing-mode="tb">007</text>
+    <rect x="157" y="39" width="65" height="164" rx="4" fill="#9a783d" stroke="#152934" stroke-width="3"/>
+    <path d="M168 59H211M168 181H211" stroke="#edda9c" stroke-width="4"/>
+    <text x="190" y="91" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#fff3d4" writing-mode="tb">289</text>
+  </g>
+  <g transform="translate(365 263)">
+    <rect width="386" height="258" rx="5" fill="#8a6847" stroke="#5d432e" stroke-width="10"/>
+    <g fill="#a77d51" stroke="#5d432e" stroke-width="4">
+      <rect x="18" y="18" width="166" height="96"/><rect x="202" y="18" width="166" height="96"/>
+      <rect x="18" y="132" width="166" height="96"/><rect x="202" y="132" width="166" height="96"/>
+    </g>
+    <g fill="#b89552" stroke="#735a35" stroke-width="3">
+      <rect x="68" y="43" width="66" height="28"/><rect x="252" y="43" width="66" height="28"/>
+      <rect x="68" y="157" width="66" height="28"/><rect x="252" y="157" width="66" height="28"/>
+    </g>
+    <g stroke="#463322" stroke-width="7" stroke-linecap="round">
+      <path d="M84 91h34M268 91h34M84 205h34M268 205h34"/>
+    </g>
+  </g>
+  <g transform="translate(690 103) rotate(-5)">
+    <rect width="385" height="238" rx="5" fill="#fff9e9" stroke="#b9aa8d" stroke-width="4"/>
+    <path d="M0 59H385" stroke="#b95d54" stroke-width="3"/>
+    <path d="M28 98H245M28 129H322M28 160H282" stroke="#a29a8c" stroke-width="7" stroke-linecap="round"/>
+    <path d="M31 31H197" stroke="#425d6d" stroke-width="8" stroke-linecap="round"/>
+    <g transform="translate(239 185)" fill="#30393e">
+      <rect width="4" height="31"/><rect x="9" width="8" height="31"/><rect x="23" width="3" height="31"/><rect x="33" width="6" height="31"/><rect x="46" width="3" height="31"/><rect x="55" width="9" height="31"/><rect x="71" width="4" height="31"/><rect x="81" width="7" height="31"/><rect x="95" width="3" height="31"/><rect x="105" width="8" height="31"/>
+    </g>
+    <rect x="302" y="12" width="66" height="39" fill="#a3483f"/>
+    <text x="335" y="38" text-anchor="middle" font-family="serif" font-size="18" font-weight="700" fill="#fff7e5">書誌</text>
+  </g>
+  <g transform="translate(795 415)">
+    <rect width="285" height="85" rx="5" fill="#f8f2e5" stroke="#b89552" stroke-width="2"/>
+    <rect width="42" height="85" rx="5" fill="#a3483f"/>
+    <text x="21" y="24" text-anchor="middle" font-family="serif" font-size="13" fill="#fff" writing-mode="tb">検索</text>
+    <text x="62" y="34" font-family="sans-serif" font-size="16" font-weight="700" fill="#24394a">タイトル・著者・ISBN</text>
+    <text x="62" y="61" font-family="sans-serif" font-size="13" fill="#68747a">公式記録へ、一枚で。</text>
+  </g>
+</svg>

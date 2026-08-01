@@ -1,0 +1,10 @@
+{
+  "name": "書誌引き",
+  "short_name": "書誌引き",
+  "description": "タイトル・著者・ISBNから国立国会図書館の完成書誌を引く",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2eee4",
+  "theme_color": "#24394a",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

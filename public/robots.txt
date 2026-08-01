@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shoshi-hiki.yhay81.com/sitemap.xml
